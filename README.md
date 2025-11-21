@@ -1,3 +1,17 @@
+# Snap.Hutao.Re
+
+> **项目背景**  
+> 在Snap.Hutao停止服务后，我尝试了许多同类软件，但始终未能找到符合使用习惯的替代品。  
+> 因此创建本项目，旨在通过移除可能被视为游戏外挂的功能来重新实现Snap.Hutao的核心体验。  
+>  
+> **项目目标**  
+> - 移除所有网络连接依赖，实现纯本地化运行  
+> - 对需要联网的功能进行改造或寻找替代方案  
+>  
+> **协作**  
+> 单靠个人力量难以完成这项工程，诚邀各位开发者共同参与建设！
+
+[以下是Snap.Hutao原有的README内容...]
 <p align="center">
   <img src="https://github.com/user-attachments/assets/976e057c-f01e-486b-9fa0-04744ae96f99" alt="Snap Hutao Banner" width="600"/>
 </p>
